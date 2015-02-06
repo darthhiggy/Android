@@ -1,0 +1,18 @@
+/* dice logic:
+0 = blank
+1 = success
+2 = two successes
+3 = advantage
+4 = two advantages
+5 = 1 success and 1 advantage
+6 = triumph
+-1 = setback
+-2 = 2 setback
+-3 = disadvantage
+-4 = 2 disadvantages
+-5 = 1 failure 1 disadvantage
+-6 = epic failure
+10 = light side point
+11 = 2 light side points
+-10 = dark side point
+-11 = 2 dark side points
